@@ -1,6 +1,7 @@
 package com.twu.basic;
 
 import org.junit.Before;
+import org.junit.Test;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
@@ -11,4 +12,5 @@ public class DimondTest {
     public void setUpStreams() {
         System.setOut(new PrintStream(outContent));
     }
+
 }

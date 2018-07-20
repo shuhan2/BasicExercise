@@ -32,10 +32,15 @@ public class TriganleTest {
         assertEquals("***", outContent.toString());
     }
     @Test
-    public void testTriganleMulti(){
+    public void testTriganleVerticalLien(){
         Triganle triganle = new Triganle();
         triganle.printVerticalLine(3);
+        assertEquals("*\r\n*\r\n*\r\n", outContent.toString());
+    }
+    @Test
+    public void testTriganleRightLien(){
+        Triganle triganle = new Triganle();
+        triganle.printRightLine(3);
         assertEquals("*\r\n**\r\n***\r\n", outContent.toString());
     }
-
 }
