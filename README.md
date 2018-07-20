@@ -8,7 +8,7 @@ Example:<br>
 ### Draw a horizontal line
 Given a number n, print n asterisks on one line.<br>
 Example when n=8:<br>
-********   
+******** 
  
 ### Draw a vertical line
 Given a number n, print n lines, each with one asterisks<br>
