@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ea69f76-2c6d-457d-b5bf-8300ae89c209" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/com/twu/basic/FizzBuzzTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/twu/basic/PrimeFactor/PrimeFactor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/com/twu/basic/PrimeFactorTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change beforePath="$PROJECT_DIR$/src/com/twu/basic/FizzBuzz/FizzBuzz.java" afterPath="$PROJECT_DIR$/src/com/twu/basic/FizzBuzz/FizzBuzz.java" />
-      <change beforePath="$PROJECT_DIR$/test/com/twu/basic/TriganleTest.java" afterPath="$PROJECT_DIR$/test/com/twu/basic/TriganleTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,19 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Triganle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/twu/basic/Triganle/Triganle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-              <folding>
-                <element signature="e#86#87#0" expanded="true" />
-                <element signature="e#123#124#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Diamond.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/twu/basic/Diamond/Diamond.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,109 +55,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Assert.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/junit-4.11.jar!/org/junit/Assert.class">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="240">
+                <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimeFactorTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/com/twu/basic/PrimeFactorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5184">
-              <caret line="215" column="22" lean-forward="false" selection-start-line="215" selection-start-column="22" selection-end-line="215" selection-end-column="22" />
+            <state relative-caret-position="81">
+              <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="43" />
               <folding>
-                <marker date="1416542964000" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1416542964000" expanded="false" signature="133:343" ph="..." />
-                <marker date="1416542964000" expanded="true" signature="390:397" ph="{}" />
-                <marker date="1416542964000" expanded="true" signature="468:539" ph="{...}" />
-                <marker date="1416542964000" expanded="false" signature="593:604" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="640:646" ph=" }" />
-                <marker date="1416542964000" expanded="false" signature="717:728" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="760:766" ph=" }" />
-                <marker date="1416542964000" expanded="false" signature="821:832" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="869:875" ph=" }" />
-                <marker date="1416542964000" expanded="true" signature="921:1073" ph="{...}" />
-                <marker date="1416542964000" expanded="false" signature="1104:1115" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="1134:1140" ph=" }" />
-                <marker date="1416542964000" expanded="true" signature="1226:1627" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="1708:1856" ph="{...}" />
-                <marker date="1416542964000" expanded="false" signature="1925:1936" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="1967:1973" ph=" }" />
-                <marker date="1416542964000" expanded="true" signature="2043:2120" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="2206:2314" ph="{...}" />
-                <marker date="1416542964000" expanded="false" signature="2383:2394" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="2439:2445" ph=" }" />
-                <marker date="1416542964000" expanded="true" signature="2513:2739" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="2821:2877" ph="{...}" />
-                <marker date="1416542964000" expanded="false" signature="2942:2953" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="2998:3004" ph=" }" />
-                <marker date="1416542964000" expanded="true" signature="3104:3230" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="3314:3382" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="3509:3574" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="3655:3743" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="3866:3931" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="4008:4092" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="4215:4280" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="4357:4441" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="4566:4631" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="4710:4796" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="4917:4982" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="5057:5139" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="5262:5327" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="5404:5488" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="5629:5725" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="5820:5895" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="6033:6129" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="6221:6296" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="6422:6511" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="6611:6765" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="6862:7081" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="7164:7313" ph="{...}" />
-                <marker date="1416542964000" expanded="false" signature="7378:7389" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="7434:7440" ph=" }" />
-                <marker date="1416542964000" expanded="true" signature="7522:7594" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="7600:7618" ph="/**...*/" />
-                <marker date="1416542964000" expanded="false" signature="7702:7713" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="7758:7764" ph=" }" />
-                <marker date="1416542964000" expanded="true" signature="7770:7788" ph="/**...*/" />
-                <marker date="1416542964000" expanded="true" signature="7889:7989" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="8073:8141" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="8222:8290" ph="{...}" />
-                <marker date="1416542964000" expanded="false" signature="8359:8370" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="8406:8412" ph=" }" />
-                <marker date="1416542964000" expanded="false" signature="8465:8476" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="8512:8518" ph=" }" />
-                <marker date="1416542964000" expanded="true" signature="8585:8674" ph="{...}" />
-                <marker date="1416542964000" expanded="false" signature="8724:8735" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="8768:8774" ph=" }" />
-                <marker date="1416542964000" expanded="true" signature="8843:9031" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="9115:9218" ph="{...}" />
-                <marker date="1416542964000" expanded="false" signature="9285:9296" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="9339:9345" ph=" }" />
-                <marker date="1416542964000" expanded="true" signature="9434:9519" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="9592:9656" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="9707:9873" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="9959:10165" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="10253:10309" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="10384:10905" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="10987:11126" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="11132:11150" ph="/**...*/" />
-                <marker date="1416542964000" expanded="true" signature="11257:11320" ph="{...}" />
-                <marker date="1416542964000" expanded="true" signature="11326:11344" ph="/**...*/" />
-                <marker date="1416542964000" expanded="false" signature="11434:11445" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="11483:11489" ph=" }" />
-                <marker date="1416542964000" expanded="false" signature="11566:11577" ph=" { " />
-                <marker date="1416542964000" expanded="false" signature="11609:11615" ph=" }" />
-                <marker date="1416542964000" expanded="true" signature="11708:11774" ph="{...}" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#519#528#0" expanded="true" />
+                <element signature="e#735#744#0" expanded="true" />
+                <element signature="e#1039#1048#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="267">
-                <caret line="75" column="10" lean-forward="true" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="PrimeFactor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/twu/basic/PrimeFactor/PrimeFactor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#155#164#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -192,8 +113,8 @@
       <file leaf-file-name="FizzBuzzTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com/twu/basic/FizzBuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="32" />
+            <state relative-caret-position="405">
+              <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#379#380#0" expanded="true" />
@@ -213,11 +134,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FizzBuzz.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/twu/basic/FizzBuzz/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            <state relative-caret-position="81">
+              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -257,9 +178,11 @@
         <option value="$PROJECT_DIR$/src/com/twu/basic/DiamondwithName/DiamondWithName.java" />
         <option value="$PROJECT_DIR$/test/com/twu/basic/DiamondWithNameTest.java" />
         <option value="$PROJECT_DIR$/test/com/twu/basic/TriganleTest.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/test/com/twu/basic/FizzBuzzTest.java" />
         <option value="$PROJECT_DIR$/src/com/twu/basic/FizzBuzz/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/twu/basic/PrimeFactor/PrimeFactor.java" />
+        <option value="$PROJECT_DIR$/test/com/twu/basic/PrimeFactorTest.java" />
       </list>
     </option>
   </component>
@@ -269,7 +192,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -337,6 +260,13 @@
               <item name="BasicExercise" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="PrimeFactor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="biblioteca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicExercise" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
               <item name="Triganle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -377,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FizzBuzzTest">
+  <component name="RunManager" selected="JUnit.PrimeFactorTest.testPrimeFactorNormalNumber">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -398,56 +328,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-    </configuration>
-    <configuration name="DimondTest.testDimaondCentered" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.twu.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="biblioteca" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.twu.basic" />
-      <option name="MAIN_CLASS_NAME" value="com.twu.basic.DimondTest" />
-      <option name="METHOD_NAME" value="testDimaondCentered" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="DimondTest.testIsosceles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.twu.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="biblioteca" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.twu.basic" />
-      <option name="MAIN_CLASS_NAME" value="com.twu.basic.DimondTest" />
-      <option name="METHOD_NAME" value="testIsosceles" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
     </configuration>
     <configuration name="FizzBuzzTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -499,7 +379,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TriganleTest.testTriganleRightLien" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimeFactorTest.testPrimeFactorNormal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.twu.basic.*" />
@@ -510,8 +390,58 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.twu.basic" />
-      <option name="MAIN_CLASS_NAME" value="com.twu.basic.TriganleTest" />
-      <option name="METHOD_NAME" value="testTriganleRightLien" />
+      <option name="MAIN_CLASS_NAME" value="com.twu.basic.PrimeFactorTest" />
+      <option name="METHOD_NAME" value="testPrimeFactorNormal" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="PrimeFactorTest.testPrimeFactorNormalNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.twu.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="biblioteca" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.twu.basic" />
+      <option name="MAIN_CLASS_NAME" value="com.twu.basic.PrimeFactorTest" />
+      <option name="METHOD_NAME" value="testPrimeFactorNormalNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="PrimeFactorTest.testPrimeFactorSpecialNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.twu.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="biblioteca" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.twu.basic" />
+      <option name="MAIN_CLASS_NAME" value="com.twu.basic.PrimeFactorTest" />
+      <option name="METHOD_NAME" value="testPrimeFactorSpecialNumber" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -606,19 +536,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="JUnit.Unnamed" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TriganleTest.testTriganleRightLien" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.DimondTest.testIsosceles" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.DimondTest.testDimaondCentered" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.testFizzBuzz" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.testFizzBuzz" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PrimeFactorTest.testPrimeFactorNormal" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PrimeFactorTest.testPrimeFactorNormalNumber" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.PrimeFactorTest.testPrimeFactorSpecialNumber" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.testFizzBuzz" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.DimondTest.testDimaondCentered" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.DimondTest.testIsosceles" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TriganleTest.testTriganleRightLien" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PrimeFactorTest.testPrimeFactorNormalNumber" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PrimeFactorTest.testPrimeFactorSpecialNumber" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PrimeFactorTest.testPrimeFactorNormal" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FizzBuzzTest.testFizzBuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -639,34 +569,16 @@
       <workItem from="1531896151237" duration="1004000" />
       <workItem from="1532052010416" duration="929000" />
       <workItem from="1532062910827" duration="11306000" />
-      <workItem from="1532091182586" duration="3972000" />
+      <workItem from="1532091182586" duration="5614000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DimondTest_testDimaondCentered - 2018.07.20 at 21h 15m 44s.xml">
-      <configuration name="DimondTest.testDimaondCentered" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DimondTest_testDimaondCentered - 2018.07.20 at 21h 17m 18s.xml">
-      <configuration name="DimondTest.testDimaondCentered" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DimondTest_testDimaondCentered - 2018.07.20 at 21h 17m 27s.xml">
-      <configuration name="DimondTest.testDimaondCentered" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DimondTest_testDimaondCentered - 2018.07.20 at 21h 17m 40s.xml">
-      <configuration name="DimondTest.testDimaondCentered" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DimondTest_testDimaondCentered - 2018.07.20 at 21h 30m 37s.xml">
-      <configuration name="DimondTest.testDimaondCentered" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FizzBuzzTest - 2018.07.20 at 21h 56m 49s.xml">
       <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FizzBuzzTest_testFizzBuzz - 2018.07.20 at 21h 54m 47s.xml">
-      <configuration name="FizzBuzzTest.testFizzBuzz" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FizzBuzzTest_testFizzBuzz - 2018.07.20 at 21h 54m 58s.xml">
-      <configuration name="FizzBuzzTest.testFizzBuzz" configurationId="JUnit" />
+    <history-entry file="FizzBuzzTest - 2018.07.20 at 22h 23m 21s.xml">
+      <configuration name="FizzBuzzTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="FizzBuzzTest_testFizzBuzz - 2018.07.20 at 21h 55m 14s.xml">
       <configuration name="FizzBuzzTest.testFizzBuzz" configurationId="JUnit" />
@@ -674,12 +586,30 @@
     <history-entry file="FizzBuzzTest_testFizzBuzz - 2018.07.20 at 21h 56m 06s.xml">
       <configuration name="FizzBuzzTest.testFizzBuzz" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PrimeFactorTest_testPrimeFactorNormal - 2018.07.20 at 22h 23m 24s.xml">
+      <configuration name="PrimeFactorTest.testPrimeFactorNormal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorTest_testPrimeFactorNormal - 2018.07.20 at 22h 24m 00s.xml">
+      <configuration name="PrimeFactorTest.testPrimeFactorNormal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorTest_testPrimeFactorNormal - 2018.07.20 at 22h 24m 38s.xml">
+      <configuration name="PrimeFactorTest.testPrimeFactorNormal" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorTest_testPrimeFactorNormalNumber - 2018.07.20 at 22h 24m 49s.xml">
+      <configuration name="PrimeFactorTest.testPrimeFactorNormalNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorTest_testPrimeFactorNormalNumber - 2018.07.20 at 22h 27m 03s.xml">
+      <configuration name="PrimeFactorTest.testPrimeFactorNormalNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorTest_testPrimeFactorSpecialNumber - 2018.07.20 at 22h 25m 02s.xml">
+      <configuration name="PrimeFactorTest.testPrimeFactorSpecialNumber" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17370000" />
+    <option name="totallyTimeSpent" value="19012000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -691,7 +621,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289941" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1145,29 +1075,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="267">
-            <caret line="75" column="10" lean-forward="true" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/twu/basic/FizzBuzzTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="33" column="32" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#379#380#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twu/basic/Diamond/Diamond.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1188">
@@ -1178,9 +1085,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twu/basic/FizzBuzz/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        <state relative-caret-position="81">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/twu/basic/FizzBuzzTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/twu/basic/PrimeFactor/PrimeFactor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#155#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/twu/basic/PrimeFactorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#519#528#0" expanded="true" />
+            <element signature="e#735#744#0" expanded="true" />
+            <element signature="e#1039#1048#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
