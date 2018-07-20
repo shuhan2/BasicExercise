@@ -58,19 +58,19 @@ Instead of numbers divisible by three print "Fizz".<br>
 Instead of numbers divisible by five print "Buzz".<br>
 Instead of numbers divisible by three and five print "FizzBuzz".<br>
 
-Sample Output:
-1<br>
-2<br>
-Fizz<br>
-4<br>
-Buzz
-Fizz
-7
-8
-Fizz
-Buzz
-11
-Fizz
-13
-14
-FizzBuzz
+Sample Output:  
+1  
+2  
+Fizz  
+4  
+Buzz  
+Fizz  
+7  
+8  
+Fizz  
+Buzz  
+11  
+Fizz  
+13  
+14  
+FizzBuzz  

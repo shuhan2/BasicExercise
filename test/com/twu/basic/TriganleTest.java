@@ -15,7 +15,6 @@ public class TriganleTest {
     private final ByteArrayOutputStream  outContent = new ByteArrayOutputStream();
     @Before
     public void setUpStreams() {
-
         System.setOut(new PrintStream(outContent));
     }
     @Test
